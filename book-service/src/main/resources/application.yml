@@ -28,3 +28,8 @@ spring:
     default-property-inclusion: NON_NULL
     serialization:
       FAIL_ON_EMPTY_BEANS: false
+resilience4j:
+  retry:
+    instances:
+      foo-bar:
+        max-attempts: 5
