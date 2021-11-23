@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc82cae5-1095-4f8d-943d-38a32eb182e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../api-gateway/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book-service/src/main/java/br/com/jcardoso/configuration/OpenApiConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cambio-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cambio-service/src/main/java/br/com/jcardoso/configuration/OpenApiConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../book-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../book-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cambio-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cambio-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cambio-service/src/main/java/br/com/jcardoso/controller/CambioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cambio-service/src/main/java/br/com/jcardoso/controller/CambioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cambio-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../cambio-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../greeting-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../greeting-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../greeting-service/src/main/java/br/com/jcardoso/configuration/GreetingConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../greeting-service/src/main/java/br/com/jcardoso/configuration/GreetingConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../greeting-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../greeting-service/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jcardoso-conf-server" beforeDir="false" afterPath="$PROJECT_DIR$/../jcardoso-conf-server" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -65,17 +38,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="naming-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="naming-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -94,6 +57,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -106,7 +70,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,7 +80,7 @@
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636833188382" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637705070913" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -163,6 +126,7 @@
       <workItem from="1636807522711" duration="7539000" />
       <workItem from="1636924062998" duration="218000" />
       <workItem from="1637153752753" duration="572000" />
+      <workItem from="1637704843640" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="Created Naming Server with Eureka">
       <created>1635100612515</created>
@@ -175,13 +139,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16018000" />
+    <option name="totallyTimeSpent" value="16397000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-199" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="1280" y="-199" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37380192" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43290734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -207,13 +170,13 @@
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Version Control" order="16" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="17" visible="true" weight="0.4138614" />
+      <window_info anchor="bottom" id="Terminal" order="17" visible="true" weight="0.4138614" />
       <window_info anchor="bottom" id="Messages" order="18" />
       <window_info anchor="bottom" id="Azure Activity Log" order="19" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3290735" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
@@ -283,9 +246,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../docker-compose.yml" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
