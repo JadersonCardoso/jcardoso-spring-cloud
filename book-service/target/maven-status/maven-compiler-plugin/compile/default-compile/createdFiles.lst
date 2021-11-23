@@ -1,0 +1,8 @@
+br/com/jcardoso/controller/FooBarController.class
+br/com/jcardoso/BookServiceApplication.class
+br/com/jcardoso/proxy/CambioProxy.class
+br/com/jcardoso/model/Book.class
+br/com/jcardoso/configuration/OpenApiConfiguration.class
+br/com/jcardoso/repository/BookRepository.class
+br/com/jcardoso/controller/BookController.class
+br/com/jcardoso/response/Cambio.class

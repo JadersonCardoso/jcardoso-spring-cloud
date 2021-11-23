@@ -1,0 +1,8 @@
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/book-service/src/main/java/br/com/jcardoso/controller/FooBarController.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/book-service/src/main/java/br/com/jcardoso/BookServiceApplication.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/book-service/src/main/java/br/com/jcardoso/configuration/OpenApiConfiguration.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/book-service/src/main/java/br/com/jcardoso/controller/BookController.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/book-service/src/main/java/br/com/jcardoso/model/Book.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/book-service/src/main/java/br/com/jcardoso/response/Cambio.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/book-service/src/main/java/br/com/jcardoso/proxy/CambioProxy.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/book-service/src/main/java/br/com/jcardoso/repository/BookRepository.java

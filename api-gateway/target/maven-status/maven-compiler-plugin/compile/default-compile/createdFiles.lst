@@ -1,0 +1,4 @@
+br/com/jcardoso/configuration/OpenApiConfiguration.class
+br/com/jcardoso/ApiGatewayApplication.class
+br/com/jcardoso/filter/LogginFilter.class
+br/com/jcardoso/configuration/ApiGatewayConfiguration.class

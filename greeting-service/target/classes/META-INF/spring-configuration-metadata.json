@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "greeting-service",
+      "type": "br.com.jcardoso.configuration.GreetingConfiguration",
+      "sourceType": "br.com.jcardoso.configuration.GreetingConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "greeting-service.default-value",
+      "type": "java.lang.String",
+      "sourceType": "br.com.jcardoso.configuration.GreetingConfiguration"
+    },
+    {
+      "name": "greeting-service.greeting",
+      "type": "java.lang.String",
+      "sourceType": "br.com.jcardoso.configuration.GreetingConfiguration"
+    }
+  ],
+  "hints": []
+}

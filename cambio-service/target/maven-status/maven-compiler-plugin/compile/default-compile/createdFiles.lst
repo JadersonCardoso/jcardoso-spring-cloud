@@ -1,0 +1,5 @@
+br/com/jcardoso/repository/CambioRepository.class
+br/com/jcardoso/CambioServiceApplication.class
+br/com/jcardoso/controller/CambioController.class
+br/com/jcardoso/configuration/OpenApiConfiguration.class
+br/com/jcardoso/model/Cambio.class

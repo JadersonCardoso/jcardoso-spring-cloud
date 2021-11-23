@@ -1,0 +1,4 @@
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/api-gateway/src/main/java/br/com/jcardoso/configuration/OpenApiConfiguration.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/api-gateway/src/main/java/br/com/jcardoso/ApiGatewayApplication.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/api-gateway/src/main/java/br/com/jcardoso/configuration/ApiGatewayConfiguration.java
+/Users/jadersonbrandao/Documents/Estudos/springboot/SPRING-CLOUD-DOCKER/microservices/api-gateway/src/main/java/br/com/jcardoso/filter/LogginFilter.java
