@@ -26,4 +26,4 @@ jobs:
           distribution: 'adopt'
       - name: Build Eureka Naming Server Image
         working-directory: ./naming-server 
-        run: mvnw spring-boot:build-image -DskipTests
+        run: mvn spring-boot:build-image -DskipTests
