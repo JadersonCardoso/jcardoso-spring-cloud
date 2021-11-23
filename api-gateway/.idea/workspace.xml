@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf2dd93e-7e57-4302-8aa6-3ff05bc1b3a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book-service/src/main/java/br/com/jcardoso/configuration/OpenApiConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cambio-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cambio-service/src/main/java/br/com/jcardoso/configuration/OpenApiConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../naming-server/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../book-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../book-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cambio-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cambio-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cambio-service/src/main/java/br/com/jcardoso/controller/CambioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cambio-service/src/main/java/br/com/jcardoso/controller/CambioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cambio-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../cambio-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../greeting-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../greeting-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../greeting-service/src/main/java/br/com/jcardoso/configuration/GreetingConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../greeting-service/src/main/java/br/com/jcardoso/configuration/GreetingConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../greeting-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../greeting-service/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jcardoso-conf-server" beforeDir="false" afterPath="$PROJECT_DIR$/../jcardoso-conf-server" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../naming-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../naming-server/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,26 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="87" selection-start-line="87" selection-end-line="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,22 +45,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="api-gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="api-gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="api-gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -116,6 +65,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,29 +73,10 @@
               <item name="api-gateway" type="b2602c69:ProjectViewProjectNode" />
               <item name="api-gateway" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="api-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api-gateway" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,6 +138,7 @@
       <workItem from="1636807581647" duration="4709000" />
       <workItem from="1636924095043" duration="199000" />
       <workItem from="1637154043319" duration="977000" />
+      <workItem from="1637702972240" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="Habilitando header e path params com RouterLocator e Spring cloud Gateway">
       <created>1635684708514</created>
@@ -233,13 +165,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23387000" />
+    <option name="totallyTimeSpent" value="23808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-199" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15069222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -270,7 +201,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3290735" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
@@ -340,15 +271,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
+        <state relative-caret-position="743">
           <caret line="87" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
