@@ -25,5 +25,5 @@ jobs:
     # Java distribution. See the list of supported distributions in README file
           distribution: 'adopt'
       - name: Build Eureka Naming Server Image
-        working-directory: ./naming-server
+        working-directory: ./naming-server 
         run: mvn spring-boot:build-image -DskipTests
